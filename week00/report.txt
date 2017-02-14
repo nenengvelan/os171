@@ -1,0 +1,6 @@
+Week00 task:
+1. We are required to have an account on Google and Github
+2. Create a repository on Github
+3. Login to our Google account and fill out a form
+4. After 24 hours, check the submission status.
+5. If we are reistered, login to badak.cs.ui.ac.id through ssh
