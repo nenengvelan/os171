@@ -1,0 +1,7 @@
+#Neneng_Vela_Nevita
+
+week01:
+1. Clone Git Repository
+2. Introduction to Git (Making files and directories, switching directory, creating or deleting files,)
+3. Introduction to CLI
+4. Introduction to Scripting
