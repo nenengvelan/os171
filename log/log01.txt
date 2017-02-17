@@ -1,0 +1,8 @@
+w01-170214-13-LR-About: HKI, From : Lecturer
+w01-170214-13-LR-About: HKI, From : Lecturer
+w01-170214-14-LR-About: Scripting, From : Lecturer
+w01-170214-14-LR-About: Scripting, From : Lecturer
+w01-170216-13-LR-About: Scripting(sed, awk, regex), From : Lecturer
+w01-170216-13-LR-About: Scripting(sed, awk, regex), From : Lecturer
+w01-170216-14-LR-Watching demo from lecturer
+w01-170216-14-LR-Scripting(sed, awk, regex)exercise in class
