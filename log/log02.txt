@@ -1,0 +1,8 @@
+w02-170221-13-LR-About: Protection, From : Lecturer
+w02-170221-13-LR-About: Protection, From : Lecturer
+w02-170221-14-LR-About: Security, From : Lecturer
+w02-170221-14-LR-About: Security, From : Lecturer
+w02-170223-13-LR-About: C language, From : Lecturer
+w02-170223-13-LR-About: C language), From : Lecturer
+w02-170223-14-LR-Watching demo from lecturer, About C language tutorial
+w02-170223-14-LR-Watching demo from lecturer, About C language tutorial
