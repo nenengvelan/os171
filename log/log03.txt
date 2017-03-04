@@ -1,0 +1,10 @@
+w03-170228-10-PS-About: BIOS, Boot and UpStart
+w03-170228-13-LR-About: BIOS, Boot and UpStart
+w03-170302-13-LR-Watching demo from lecturer
+w03-170302-14-LR-About: BIOS, Boot and UpStart
+w03-170302-14-LR-Watching demo from lecturer
+w03-170304-05-PS-About: BIOS, Boot and UpStart
+w03-170304-05-LR-About: BIOS, Boot and UpStart, From: 300-Techquickie-2015-BIOS-and-UEFI-As-Fast-As-Possible.mp4
+w03-170304-06-LR-About: BIOS, Boot and UpStart, From: 301-Advantech-2012-Technical-Note-UEFI-BIOS-vs-Legacy-BIOS.mp4
+w03-170304-06-LR-About: BIOS, Boot and UpStart, From: 310-CBTNuggets-2014-Bootloaders-GRUB-GRUB2.mp4
+
