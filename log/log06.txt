@@ -1,0 +1,8 @@
+w06-170411-13-LR-About: Processes, From: Lecturer
+w06-170411-14-LR-About: Processes, From: Lecturer
+w06-170411-21-PS-Doing lab session
+w06-170411-22-PS-Doing lab session
+w06-170412-07-PS-Doing lab session
+w06-170412-08-PS-Doing lab session
+w06-170413-13-LR-About: Threads, From: Lecturer
+w06-170413-14-LR-About: Threads, From: Lecturer
