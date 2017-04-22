@@ -1,0 +1,9 @@
+w07-170418-13-LR-About: Synchronization
+w07-170418-14-LR-Watching demo from lecturer
+w07-170419-20-PS-Doing lab session
+w07-170419-21-PS-Doing lab session
+w07-170420-13-LR-About: Scheduling & Sockets
+w07-170420-14-LR-About: Scheduling & Sockets
+w07-170422-12-PS-Doing lab session
+w07-170422-13-PS-Doing lab session
+w07-170422-14-PS-Doing lab session
